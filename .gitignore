@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+*.log
+*.LOG
+_vti_cnf/
+
+Horizons/
+Seismic/
+Wells/
+core.gif
+
+
+.ipynb_checkpoints
+
+# Virtual environments
+.venv
+.cenv
